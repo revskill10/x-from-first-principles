@@ -1,6 +1,6 @@
-# [X](from-first-principles)
+# X from first principles
 
-- [Monad Transformers] (https://begriffs.com/posts/2017-04-09-monad-tutorial-workshop.html)
+- [Monad Transformers](https://begriffs.com/posts/2017-04-09-monad-tutorial-workshop.html)
 
 # LICENSE
 
