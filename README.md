@@ -1,10 +1,10 @@
 # X from first principles
 
 
-- [Free Monad 1, Haskell](https://www.tweag.io/posts/2018-02-05-free-monads.html)
-- [Monad Transformers, Haskell](https://begriffs.com/posts/2017-04-09-monad-tutorial-workshop.html)
+- [Free Monad 1 (Haskell)](https://www.tweag.io/posts/2018-02-05-free-monads.html)
+- [Monad Transformers (Haskell)](https://begriffs.com/posts/2017-04-09-monad-tutorial-workshop.html)
 
-- [Lens 1, Haskell](https://taylor.fausak.me/2014/08/03/lenses-from-the-ground-up/), [Lens 2, Racket](http://docs.racket-lang.org/lens/lens-intro.html)
+- [Lens 1 (Haskell)](https://taylor.fausak.me/2014/08/03/lenses-from-the-ground-up/), [Lens 2 (Racket)](http://docs.racket-lang.org/lens/lens-intro.html)
 
 
 
