@@ -2,8 +2,8 @@
 
 or What is X for ?
 
-## Functor
-- [Functor 1 (Haskell)](https://lahteenmaki.net/dev_*14)
+## Functor, Applicative, Monad
+- [1 (Haskell)](https://lahteenmaki.net/dev_*14)
 
 ## Free Monad
 - [Free Monad 1 (Haskell)](https://www.tweag.io/posts/2018-02-05-free-monads.html)
