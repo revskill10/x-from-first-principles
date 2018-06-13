@@ -15,9 +15,10 @@ or What is X for ?
     - Functor: generalizes function application to work with boxed values
     - Applicative: generalizes boxed function application to work
 with functions of arity > 1
-    - Monad: we have a wrapped value, and we add "actions" to it one by one.
+    - Monad: we have a wrapped value, and we add "actions" to it one by one, so monad generalizes function composition to work with functions returning boxed values
 ## Free Monad
 - [Free Monad 1 (Haskell)](https://www.tweag.io/posts/2018-02-05-free-monads.html)
+- [Free Monad 2 (Haskell)](https://www.endpoint.com/blog/2016/03/11/strict-typing-fun-example-free-monads)
  
 ## Monad Transformer 
 - [Monad Transformers (Haskell)](https://begriffs.com/posts/2017-04-09-monad-tutorial-workshop.html)
