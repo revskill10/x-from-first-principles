@@ -9,7 +9,7 @@ or What is X for ?
 - [1 (Haskell)](https://lahteenmaki.net/dev_*15)
 
 ## Functor, Applicative, Monad
-- [1 (Haskell)](https://lahteenmaki.net/dev_*14)
+- [1 (Haskell)](https://lahteenmaki.net/dev_*14), [2 (Haskell, Video)](https://www.youtube.com/watch?v=JZPXzJ5tp9w)
 
     ### One-line summary:
     - Functor: generalizes function application to work with boxed values
