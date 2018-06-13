@@ -5,6 +5,11 @@ or What is X for ?
 ## Functor, Applicative, Monad
 - [1 (Haskell)](https://lahteenmaki.net/dev_*14)
 
+    ### One-line summary:
+    - Functor: generalizes function application to work with boxed values
+    - Applicative: generalizes boxed function application to work
+with functions of arity > 1
+    - Monad: we have a wrapped value, and we add "actions" to it one by one.
 ## Free Monad
 - [Free Monad 1 (Haskell)](https://www.tweag.io/posts/2018-02-05-free-monads.html)
  
