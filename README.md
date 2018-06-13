@@ -3,6 +3,9 @@
 or What is X for ?
 
 ## Function composition
+
+![Function composition](images/composition.png)
+
 - [1 (Haskell)](https://lahteenmaki.net/dev_*15)
 
 ## Functor, Applicative, Monad
