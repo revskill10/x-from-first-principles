@@ -2,7 +2,7 @@
 
 - [Monad Transformers](https://begriffs.com/posts/2017-04-09-monad-tutorial-workshop.html)
 
-- [Lens](https://taylor.fausak.me/2014/08/03/lenses-from-the-ground-up/)
+- [Lens 1](https://taylor.fausak.me/2014/08/03/lenses-from-the-ground-up/), [Lens 2](http://docs.racket-lang.org/lens/lens-intro.html)
 
 # LICENSE
 
